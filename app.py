@@ -1,3 +1,4 @@
+import json
 import requests
 from flask import Flask,render_template, redirect, request
 from covid_india import states
